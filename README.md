@@ -14,7 +14,7 @@
 * Tomcat
 * Intellij IDEA Ultimate
 * Postman
-* SOAP-UI
+
 
 #Resources
 ```
