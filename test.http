@@ -1,0 +1,21 @@
+GET  /rest/api/v1/users
+Host:localhost:9191
+Accept:application/json
+
+
+###
+POST /rest/api/v1/users
+Host: localhost:9191
+Content-Type: application/json
+
+{
+  "firstName":"Mohamed",
+  "lastName":"Elsisi",
+  "email":"elsisi@gmail.com",
+  "role":"ADMIN"
+}
+
+###
+GET  /rest/api/v1/users/1
+Host:localhost:9191
+Accept:application/json
