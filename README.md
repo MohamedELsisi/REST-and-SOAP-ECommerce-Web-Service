@@ -5,7 +5,7 @@
 #  Documentation
 [Postman RESTful API Docs](https://documenter.getpostman.com/view/15335375/UyxdL9Xm)
 
-# ⚙ Technologies used
+#  Technologies 
 * JAX-RS (Jersey)
 * JAX-WS (Metro)
 * JSON-B
