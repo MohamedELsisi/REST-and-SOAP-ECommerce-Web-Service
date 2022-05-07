@@ -24,16 +24,16 @@
   </servlet-mapping>
 
 
-  <!-- SOAP CONFIG-->
-<!--  <listener>-->
-<!--    <listener-class>com.sun.xml.ws.transport.http.servlet.WSServletContextListener</listener-class>-->
-<!--  </listener>-->
+   SOAP CONFIG
+  <listener>
+    <listener-class>com.sun.xml.ws.transport.http.servlet.WSServletContextListener</listener-class>
+  </listener>
 
-<!--  <servlet>-->
-<!--    <servlet-name>JAXWSServlet</servlet-name>-->
-<!--    <servlet-class>com.sun.xml.ws.transport.http.servlet.WSServlet</servlet-class>-->
-<!--    <load-on-startup>1</load-on-startup>-->
-<!--  </servlet>-->
+  <servlet>
+    <servlet-name>JAXWSServlet</servlet-name>
+    <servlet-class>com.sun.xml.ws.transport.http.servlet.WSServlet</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
 
 
 </web-app>
